@@ -1,0 +1,4 @@
+- 👀 I’m interested in **Artificial intelligence**
+- 🌱 I’m currently learning **C, C++, DSA, Database Management System, Python**
+- 💬 Ask me about **CCNA, Network Security**
+- 📫 How to reach me jaberahmediiuc@gmail.com
